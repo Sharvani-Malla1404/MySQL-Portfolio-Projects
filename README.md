@@ -4,7 +4,6 @@
 ** 📋 Project Overview**
   This project focuses on querying and analyzing structured meteorological datasets using SQL. It simulates handling real-time observational data to uncover seasonal patterns, temperature extremes, visibility anomalies, and complex weather trend behaviors.
 
-
 ### 🔍 Key Analyses Performed
 **Temperature Extremes Tracking:** Developed scripts to isolate the exact hottest and coldest recorded hours within the history log.
 **Atmospheric & Wind Profiling:** Calculated average barometric pressures during sub-zero conditions and evaluated wind speed behaviors across varying climates.
